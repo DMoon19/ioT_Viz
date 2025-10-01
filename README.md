@@ -1,6 +1,10 @@
 # ioT_Viz
 
-Visualización sencilla de datos IoT en local. Este repositorio incluye un script para obtener datos de sensores o APIs y un visor para graficarlos en tiempo real o casi en tiempo real.
+Visualización sencilla de datos IoT en local. Este repositorio incluye un script para obtener datos de sensores o APIs y un visor para graficarlos en tiempo real o casi en tiempo real. 
+
+Es una visualización entendible para cualquier persona, sea ajena o bien por el contrario, conocedora del comportamiento eléctrico y/o consumo de energía que puede llegar a tener en este caso, los bloques de una universidad que cuentan con un alto tráfico de estudiantes como docentes y sistemas en continuo funcionamiento haciendo uso de la energía eléctrica para cumplir con las funciones cotidianas de la universidad.
+
+Con ayuda de este programa se pueden llegar a tomar decisiones pertinentes respecto al como se comporten los datos y la información que nos proporcionen, se puede llegar a saber que bloques están funcionando bien en cuanto a eficiencia y cuales no, se puede llegar a saber si uno de ellos está fallando y gracias a ello acudir al bloque para tomar acción y poder ver si algún componente no se comporta como debería o si se está haciendo uso indebido de los espacios que ofrece la universidad haciendo uso de dispositivos u otras maquinas que puedan poner en riesgo un sistema eléctrico no capacitado para ello.
 
 ## Características
 
@@ -160,12 +164,6 @@ docker run -it --rm -p 8000:8000 -v $(pwd)/datos:/app/datos -v $(pwd)/historico:
 - Exportación a CSV y Parquet con compresión.
 - Integración con MQTT y autenticación opcional.
 - Alertas por email o Telegram cuando una métrica supere un umbral.
-
-## Autoría
-
-Hecho por DMoon19. Si deseas soporte o reportar bugs, crea Issues en GitHub.
-
----
 
 ### Versiones recomendadas
 
