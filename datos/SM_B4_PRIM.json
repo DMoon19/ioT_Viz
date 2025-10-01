@@ -1,0 +1,180 @@
+{
+  "id": "SmartMeter_SM_B4_PRIM",
+  "type": "SmartMeter",
+  "V1": {
+    "type": "Numeric",
+    "value": 125.91
+  },
+  "V2": {
+    "type": "Numeric",
+    "value": 126.33
+  },
+  "V3": {
+    "type": "Numeric",
+    "value": 127.16
+  },
+  "I1": {
+    "type": "Numeric",
+    "value": 125.9
+  },
+  "I2": {
+    "type": "Numeric",
+    "value": 114.10000000000001
+  },
+  "I3": {
+    "type": "Numeric",
+    "value": 116.10000000000001
+  },
+  "In": {
+    "type": "Numeric",
+    "value": 83.30000000000001
+  },
+  "Frequency": {
+    "type": "Numeric",
+    "value": 60.0
+  },
+  "V1Angle": {
+    "type": "Numeric",
+    "value": 0.0
+  },
+  "V2Angle": {
+    "type": "Numeric",
+    "value": 240.0
+  },
+  "V3Angle": {
+    "type": "Numeric",
+    "value": 119.0
+  },
+  "I1Angle": {
+    "type": "Numeric",
+    "value": 9.0
+  },
+  "I2Angle": {
+    "type": "Numeric",
+    "value": 250.0
+  },
+  "I3Angle": {
+    "type": "Numeric",
+    "value": 122.0
+  },
+  "TotalPowerFactor": {
+    "type": "Numeric",
+    "value": 0.99
+  },
+  "PowerFactor1": {
+    "type": "Numeric",
+    "value": 0.99
+  },
+  "PowerFactor2": {
+    "type": "Numeric",
+    "value": 0.99
+  },
+  "PowerFactor3": {
+    "type": "Numeric",
+    "value": 0.99
+  },
+  "RelativeTHDPower": {
+    "type": "Numeric",
+    "value": 0.084
+  },
+  "HarmonicsV1": {
+    "type": "Numeric",
+    "value": 2.709
+  },
+  "HarmonicsV2": {
+    "type": "Numeric",
+    "value": 2.486
+  },
+  "HarmonicsV3": {
+    "type": "Numeric",
+    "value": 2.818
+  },
+  "RelativeTHDVoltage": {
+    "type": "Numeric",
+    "value": 2.226
+  },
+  "HarmonicsI1": {
+    "type": "Numeric",
+    "value": 0.425
+  },
+  "HarmonicsI2": {
+    "type": "Numeric",
+    "value": 0.255
+  },
+  "HarmonicsI3": {
+    "type": "Numeric",
+    "value": 0.436
+  },
+  "RelativeTHDCurrent": {
+    "type": "Numeric",
+    "value": 37.25
+  },
+  "ActiveEnergyImport": {
+    "type": "Numeric",
+    "value": 29897980.400000002
+  },
+  "ActiveEnergyExport": {
+    "type": "Numeric",
+    "value": 1103.3
+  },
+  "ReactiveEnergyImport": {
+    "type": "Numeric",
+    "value": 49869788.6
+  },
+  "ReactiveEnergyExport": {
+    "type": "Numeric",
+    "value": 2916705.1
+  },
+  "ActiveEnergyImportDay": {
+    "type": "Numeric",
+    "value": 312429.2
+  },
+  "ActiveEnergyExportDay": {
+    "type": "Numeric",
+    "value": 3.3000000000000003
+  },
+  "ReactiveEnergyImportDay": {
+    "type": "Numeric",
+    "value": 27725.0
+  },
+  "ReactiveEnergyExportDay": {
+    "type": "Numeric",
+    "value": 2772.5
+  },
+  "ActivePower1": {
+    "type": "Numeric",
+    "value": 15228.900000000001
+  },
+  "ActivePower2": {
+    "type": "Numeric",
+    "value": 14116.900000000001
+  },
+  "ActivePower3": {
+    "type": "Numeric",
+    "value": 14074.0
+  },
+  "ActivePower": {
+    "type": "Numeric",
+    "value": 43419.100000000006
+  },
+  "ReactivePower1": {
+    "type": "Numeric",
+    "value": 376.5
+  },
+  "ReactivePower2": {
+    "type": "Numeric",
+    "value": 1167.1000000000001
+  },
+  "ReactivePower3": {
+    "type": "Numeric",
+    "value": 706.3000000000001
+  },
+  "ReactivePower": {
+    "type": "Numeric",
+    "value": 837.3000000000001
+  },
+  "Clock": {
+    "type": "DateTime",
+    "value": "2025-09-30T06:35:52.000-05:00"
+  }
+}
